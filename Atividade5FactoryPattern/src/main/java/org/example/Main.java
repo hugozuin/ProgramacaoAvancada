@@ -4,7 +4,7 @@ import org.example.factory.NotificationFactory;
 import org.example.notification.Notification;
 
 import java.util.Scanner;
-3
+
 //Classe principal do sistema, responsável pela interação com o usuário.
 
 public class Main {

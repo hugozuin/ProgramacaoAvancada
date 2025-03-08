@@ -1,4 +1,9 @@
-package org.example;
+package org.example.processor;
+
+import org.example.strategy.PaymentStrategy;
+
+
+//Classe responsável por processar pagamentos utilizando a estratégia escolhida.
 
 public class PaymentProcessor {
     private final PaymentStrategy paymentStrategy;
